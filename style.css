@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#fir{
+
+    background-color: rgb(5, 88, 232);
+    width: 90px;
+    height: 35px;
+    border-radius: 5px;
+    font-size: large;
+    color: white;
+    margin-top: 9px;
+    margin-bottom: 5px;
+    border:0;
+}
+#sec{
+
+    background-color: rgb(5, 232, 153);
+    width: 140px;
+    height: 35px;
+    border-radius: 5px;
+    font-size:medium;
+    color: white;
+    margin-top: 9px;
+    margin-bottom: 5px;
+    border:0;
+}
+#thi{
+
+    background-color: rgb(232, 183, 5);
+    width: 100px;
+    height: 35px;
+    border-radius: 5px;
+    font-size:medium;
+    color: white;
+    margin-top: 9px;
+    margin-bottom: 5px;
+    border:0;
+}
+#log{
+
+    margin-left: 9px;   
+
+}
+
+#msg{
+border-color: black;
+border-style:groove;
+}
+
+#can{
+height: 790px;
+
+}
